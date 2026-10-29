@@ -1,0 +1,24 @@
+# Git user information
+[user]
+    name = Max Jansen
+    email = mail@maxjansen.net
+
+# Default branch for new repositories
+[init]
+    defaultBranch = main
+
+# Automatically setup remote for git push
+[push]
+    autoSetupRemote = true
+
+# Credential helper configuration
+[credential]
+    helper = store
+
+# Pull configuration
+[pull]
+    rebase = true
+
+# Core editor configuration
+[core]
+    editor = nvim

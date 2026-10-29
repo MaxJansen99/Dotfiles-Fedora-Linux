@@ -1,0 +1,5 @@
+---
+BasedOnStyle: LLVM
+IndentWidth: 4
+DisableFormat: true
+InlayHints: false
